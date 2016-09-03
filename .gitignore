@@ -1,0 +1,6 @@
+factorio/
+server-manager/
+versions/*.tar.gz
+versions/current-version.txt
+saves/*.zip
+maps/*.zip

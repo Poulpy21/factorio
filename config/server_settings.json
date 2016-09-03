@@ -1,0 +1,15 @@
+{
+  "name": "Poulpy's Factory",
+  "description": "Enjoy some modded factorio!",
+  "tags": ["poulpy", "mods"],
+
+  "max_players": "10",
+  "visibility": "hidden",
+
+  "username": "poulpy21",
+  "password": "",
+  "token": "",
+
+  "game_password": "discopoulpy",
+  "verify_user_identity": true
+}

@@ -3,13 +3,13 @@
   "description": "Enjoy some modded factorio!",
   "tags": ["poulpy", "mods"],
 
-  "max_players": "10",
+  "max_players": "20",
   "visibility": "hidden",
 
   "username": "poulpy21",
   "password": "",
   "token": "",
 
-  "game_password": "discopoulpy",
+  "game_password": "poulpymoule",
   "verify_user_identity": true
 }

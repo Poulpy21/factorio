@@ -1,0 +1,45 @@
+{
+    "mods": [
+        { "name": "base", "enabled": "true" },
+        { "name": "scenario-pack", "enabled": "true" },
+
+		
+        { "name": "autofill", "enabled": "true" },
+		{ "name": "tree_collision", "enabled": "true" },
+		{ "name": "BigBags", "enabled": "true" },
+		{ "name": "Bottleneck", "enabled": "true" },
+		{ "name": "Flow Control", "enabled": "true" },
+		{ "name": "Foreman", "enabled": "true" },
+
+		{ "name": "BetterIcons", "enabled": "true" },
+		{ "name": "Enhanced_Map_Colors", "enabled": "true" },
+		{ "name": "color-coding", "enabled": "true" },
+
+		{ "name": "Orbital Ion Cannon", "enabled": "true" },
+		{ "name": "RailTanker", "enabled": "true" },
+		{ "name": "Warehousing", "enabled": "true" },
+		{ "name": "FARL", "enabled": "true" },
+		{ "name": "YARM", "enabled": "true" },
+
+		{ "name": "boblocales", "enabled": "true" },
+		{ "name": "boblibrary", "enabled": "true" },
+		{ "name": "bobconfig", "enabled": "true" },
+		{ "name": "bobassembly", "enabled": "true" },
+		{ "name": "bobelectronics", "enabled": "true" },
+		{ "name": "bobenemies", "enabled": "true" },
+		{ "name": "bobgreenhouse", "enabled": "true" },
+		{ "name": "boblogistics", "enabled": "true" },
+		{ "name": "bobmining", "enabled": "true" },
+		{ "name": "bobmodules", "enabled": "true" },
+		{ "name": "bobores", "enabled": "true" },
+		{ "name": "bobplates", "enabled": "true" },
+		{ "name": "bobpower", "enabled": "true" },
+		{ "name": "bobrevamp", "enabled": "true" },
+		{ "name": "bobtech", "enabled": "true" },
+		{ "name": "bobtechsave", "enabled": "true" },
+		{ "name": "bobwarfare", "enabled": "true" },
+
+		{ "name": "CMHMod", "enabled": "true" }
+
+    ]
+}

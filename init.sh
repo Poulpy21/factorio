@@ -19,4 +19,4 @@ safe-rm -Rf ${SERVER_MANAGER_FOLDER}
 mv ${TMP_FOLDER} ${SERVER_MANAGER_FOLDER}
 safe-rm -f "${SERVER_MANAGER_FOLDER}/conf.json"
 
-sh "${SCRIPT_DIR}/update.sh"
+sh "${SCRIPT_DIR}/update.sh $@"
